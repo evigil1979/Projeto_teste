@@ -1,2 +1,2 @@
 # Projeto_teste
-Teste
+Diretório destinado para estudo
